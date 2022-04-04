@@ -1,5 +1,21 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+#grid {
+  display: grid;
+  place-items: center;
+}
+
+
+
+img#grid {
+  display: grid;
+  place-items: center;
+}
+
+section#featured-property{
+  display: grid;
+  place-items: center;
+}
+
+p#property{
+  display: grid;
+  place-items: center;
 }
